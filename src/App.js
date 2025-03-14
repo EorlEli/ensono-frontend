@@ -40,7 +40,7 @@ function App() {
 
     return (
         <div style={{ textAlign: "center", padding: "20px" }}>
-            <h2>Ask a Question</h2>
+            <h2>Ask a question</h2>
             <input 
                 type="text"
                 value={question}
